@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://taedicaig.while.dev/sitemap.xml
